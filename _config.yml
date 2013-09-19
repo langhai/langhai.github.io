@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://langhai.github.io
-title: My Octopress Blog
+url: http://yoursite.com
+title: Raging Scholars
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: http://google.com/search
