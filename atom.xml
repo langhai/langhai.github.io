@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://langhai.github.io/atom.xml" rel="self"/>
-  <link href="http://langhai.github.io/"/>
-  <updated>2013-09-19T08:34:36+00:00</updated>
-  <id>http://langhai.github.io/</id>
+  <title><![CDATA[Raging Scholars]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-09-19T08:40:04+00:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
